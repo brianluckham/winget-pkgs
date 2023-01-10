@@ -1,0 +1,3 @@
+- name: File Existence
+  uses: andstor/file-existence-action@v2.0.0
+
